@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4035
+
+Extends Vim HTML syntax highlighting to support http://modx.com content management system tags.
+
+Supports MODX Revolution only.
+
+Please see project page for more info or to report issues:
+https://github.com/rosstimson/modx.vim
